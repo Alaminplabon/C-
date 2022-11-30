@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\cs\Size\Size\bin\Debug\Size.exe.config
+C:\Users\User\Desktop\cs\Size\Size\bin\Debug\Size.exe
+C:\Users\User\Desktop\cs\Size\Size\bin\Debug\Size.pdb
+C:\Users\User\Desktop\cs\Size\Size\obj\Debug\Size.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cs\Size\Size\obj\Debug\Size.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\cs\Size\Size\obj\Debug\Size.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs\Size\Size\obj\Debug\Size.exe
+C:\Users\User\Desktop\cs\Size\Size\obj\Debug\Size.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\cs\Conostructor\Conostructor\bin\Debug\Conostructor.exe.config
+C:\Users\User\Desktop\cs\Conostructor\Conostructor\bin\Debug\Conostructor.exe
+C:\Users\User\Desktop\cs\Conostructor\Conostructor\bin\Debug\Conostructor.pdb
+C:\Users\User\Desktop\cs\Conostructor\Conostructor\obj\Debug\Conostructor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cs\Conostructor\Conostructor\obj\Debug\Conostructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\cs\Conostructor\Conostructor\obj\Debug\Conostructor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs\Conostructor\Conostructor\obj\Debug\Conostructor.exe
+C:\Users\User\Desktop\cs\Conostructor\Conostructor\obj\Debug\Conostructor.pdb

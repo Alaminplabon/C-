@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\cs\ArrayClass\ArrayClass\bin\Debug\ArrayClass.exe.config
+C:\Users\User\Desktop\cs\ArrayClass\ArrayClass\bin\Debug\ArrayClass.exe
+C:\Users\User\Desktop\cs\ArrayClass\ArrayClass\bin\Debug\ArrayClass.pdb
+C:\Users\User\Desktop\cs\ArrayClass\ArrayClass\obj\Debug\ArrayClass.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cs\ArrayClass\ArrayClass\obj\Debug\ArrayClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\cs\ArrayClass\ArrayClass\obj\Debug\ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs\ArrayClass\ArrayClass\obj\Debug\ArrayClass.exe
+C:\Users\User\Desktop\cs\ArrayClass\ArrayClass\obj\Debug\ArrayClass.pdb

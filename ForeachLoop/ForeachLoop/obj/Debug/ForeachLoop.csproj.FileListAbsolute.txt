@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\cs\ForeachLoop\ForeachLoop\bin\Debug\ForeachLoop.exe.config
+C:\Users\User\Desktop\cs\ForeachLoop\ForeachLoop\bin\Debug\ForeachLoop.exe
+C:\Users\User\Desktop\cs\ForeachLoop\ForeachLoop\bin\Debug\ForeachLoop.pdb
+C:\Users\User\Desktop\cs\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cs\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\cs\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.exe
+C:\Users\User\Desktop\cs\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.pdb

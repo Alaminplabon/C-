@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\cs\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe.config
+C:\Users\User\Desktop\cs\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe
+C:\Users\User\Desktop\cs\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.pdb
+C:\Users\User\Desktop\cs\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cs\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\cs\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.exe
+C:\Users\User\Desktop\cs\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.pdb

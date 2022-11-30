@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\cs\Qube\Qube\bin\Debug\Qube.exe.config
+C:\Users\User\Desktop\cs\Qube\Qube\bin\Debug\Qube.exe
+C:\Users\User\Desktop\cs\Qube\Qube\bin\Debug\Qube.pdb
+C:\Users\User\Desktop\cs\Qube\Qube\obj\Debug\Qube.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cs\Qube\Qube\obj\Debug\Qube.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\cs\Qube\Qube\obj\Debug\Qube.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs\Qube\Qube\obj\Debug\Qube.exe
+C:\Users\User\Desktop\cs\Qube\Qube\obj\Debug\Qube.pdb
